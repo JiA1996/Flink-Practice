@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ad65b98a-0013-4a30-a2b1-0fcb0fa6ab4b" name="Default Changelist" comment="" />
+    <list default="true" id="ad65b98a-0013-4a30-a2b1-0fcb0fa6ab4b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,14 +30,32 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/LianTong/flinkBatchPractice/readText/sinkAsText_MyBatis/readText_scala.scala">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/LianTong/flinkBatchPractice/readText/sinkToMySQL/JDBCOutput.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="147">
-              <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
-              <folding>
-                <element signature="e#69#123#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="400">
+              <caret line="77" column="38" selection-start-line="77" selection-start-column="38" selection-end-line="77" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="63">
+                <caret line="3" column="27" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/LianTong/flinkBatchPractice/readText/sinkToMySQL/readText.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="21">
+              <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -59,10 +81,12 @@
       <find>|2|</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/LianTong/flinkDataProcess/javaBatchQuery.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/LianTong/flinkDataProcess/streamQuery/javaStreamQuery.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/LianTong/flinkDataProcess/ArupBy/arupBy.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/LianTong/flinkDataProcess/databaseManipulation/main.java" />
@@ -113,6 +137,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/LianTong/flinkBatchPractice/readText/sinkAsText_MyBatis/readText.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/LianTong/flinkBatchPractice/readText/sinkAsText_MyBatis/readResult.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/LianTong/flinkBatchPractice/readText/sinkAsText_MyBatis/readText_scala.scala" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -139,6 +164,7 @@
     <option name="width" value="935" />
     <option name="height" value="1090" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -161,85 +187,6 @@
               <item name="flinkDataProcess" type="b2602c69:ProjectViewProjectNode" />
               <item name="flinkDataProcess" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="flinkDataProcess" type="b2602c69:ProjectViewProjectNode" />
-              <item name="flinkDataProcess" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="flinkDataProcess" type="b2602c69:ProjectViewProjectNode" />
-              <item name="flinkDataProcess" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="flinkDataProcess" type="b2602c69:ProjectViewProjectNode" />
-              <item name="flinkDataProcess" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="flinkBatchPractice" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="flinkDataProcess" type="b2602c69:ProjectViewProjectNode" />
-              <item name="flinkDataProcess" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="flinkBatchPractice" type="462c0819:PsiDirectoryNode" />
-              <item name="readText" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="flinkDataProcess" type="b2602c69:ProjectViewProjectNode" />
-              <item name="flinkDataProcess" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="flinkBatchPractice" type="462c0819:PsiDirectoryNode" />
-              <item name="readText" type="462c0819:PsiDirectoryNode" />
-              <item name="sinkAsText_MyBatis" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="flinkDataProcess" type="b2602c69:ProjectViewProjectNode" />
-              <item name="flinkDataProcess" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="flinkBatchPractice" type="462c0819:PsiDirectoryNode" />
-              <item name="readText" type="462c0819:PsiDirectoryNode" />
-              <item name="sinkAsText_MyBatis" type="462c0819:PsiDirectoryNode" />
-              <item name="Bean" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="flinkDataProcess" type="b2602c69:ProjectViewProjectNode" />
-              <item name="flinkDataProcess" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="flinkBatchPractice" type="462c0819:PsiDirectoryNode" />
-              <item name="readText" type="462c0819:PsiDirectoryNode" />
-              <item name="sinkAsText_MyBatis" type="462c0819:PsiDirectoryNode" />
-              <item name="mapper" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="flinkDataProcess" type="b2602c69:ProjectViewProjectNode" />
-              <item name="flinkDataProcess" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="flinkBatchPractice" type="462c0819:PsiDirectoryNode" />
-              <item name="readText" type="462c0819:PsiDirectoryNode" />
-              <item name="sinkToMySQL" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="flinkDataProcess" type="b2602c69:ProjectViewProjectNode" />
-              <item name="flinkDataProcess" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="flinkDataProcess" type="b2602c69:ProjectViewProjectNode" />
@@ -369,7 +316,6 @@
         <item itemvalue="JUnit.readResult" />
         <item itemvalue="Application.readText" />
         <item itemvalue="Application.tableAPI" />
-        <item itemvalue="Application.readText (1)" />
         <item itemvalue="JUnit.readResult.getSystem" />
       </list>
     </recent_temporary>
@@ -442,7 +388,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="123433000" />
+    <option name="totallyTimeSpent" value="123476000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -455,8 +401,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1482" height="878" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27285513" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12728551" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -526,13 +473,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/jre/lib/rt.jar!/sun/reflect/NativeMethodAccessorImpl.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="33" column="33" selection-start-line="33" selection-start-column="33" selection-end-line="33" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/LianTong/flinkDataProcess/batchQuery/ArupBy/readText.java" />
     <entry file="file://$PROJECT_DIR$/src/main/resources/testttttt.REQ" />
     <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/e8294f7f-8f60-4b5e-80ab-de38663e5af2/console.sql">
@@ -684,16 +624,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/LianTong/flinkBatchPractice/batchQuery/readText_scala.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="121">
-          <caret line="10" column="87" selection-start-line="10" selection-start-column="87" selection-end-line="10" selection-end-column="87" />
-          <folding>
-            <element signature="e#50#104#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/LianTong/flinkBatchPractice/batchQuery/readText_scala.scala" />
     <entry file="file://$PROJECT_DIR$/src/main/resources/test_original.REQ">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
@@ -701,22 +632,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/result/省分">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/result/test_result">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/result/new">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/result/java_test_result">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/result/省分" />
+    <entry file="file://$PROJECT_DIR$/result/test_result" />
+    <entry file="file://$PROJECT_DIR$/result/new" />
+    <entry file="file://$PROJECT_DIR$/result/java_test_result" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/LianTong/flinkBatchPractice/TableAPI/ArupBy/arupBy.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="546">
@@ -744,20 +663,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/LianTong/flinkDataProcess/Bean/SystemObject.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="26" column="5" lean-forward="true" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#769#770#0" expanded="true" />
-            <element signature="e#801#802#0" expanded="true" />
-            <element signature="e#855#856#0" expanded="true" />
-            <element signature="e#897#898#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/LianTong/flinkDataProcess/Bean/SystemObject.java" />
     <entry file="file://$USER_HOME$/Desktop/flinkDataProcess/src/main/java/com/LianTong/flinkDataProcess/batchQuery/readText.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-63" />
@@ -777,43 +683,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/LianTong/flinkBatchPractice/databaseManipulation/jdbcConnect.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="39" column="17" lean-forward="true" selection-start-line="39" selection-start-column="17" selection-end-line="39" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/LianTong/flinkBatchPractice/databaseManipulation/jdbcConnect.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/LianTong/flinkBatchPractice/readText/sinkToMySQL/readText.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
+        <state relative-caret-position="21">
           <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/LianTong/flinkBatchPractice/readText/sinkToMySQL/JDBCOutput.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="400">
+          <caret line="77" column="38" selection-start-line="77" selection-start-column="38" selection-end-line="77" selection-end-column="38" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/LianTong/flinkBatchPractice/databaseManipulation/flink_jdbc_scala.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-42">
-          <caret line="7" column="7" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
-          <folding>
-            <element signature="e#60#117#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/LianTong/flinkBatchPractice/databaseManipulation/flink_jdbc_scala.scala" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/LianTong/flinkBatchPractice/readText/flink_jdbc_scala.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="84">
@@ -821,20 +706,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/LianTong/flinkBatchPractice/readText/sinkAsText_MyBatis/combineDatasets.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="22" column="55" lean-forward="true" selection-start-line="22" selection-start-column="55" selection-end-line="22" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/LianTong/flinkBatchPractice/readText/readText_scala.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
-          <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/LianTong/flinkBatchPractice/readText/sinkAsText_MyBatis/combineDatasets.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/LianTong/flinkBatchPractice/readText/readText_scala.scala" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/LianTong/flinkBatchPractice/readText/sinkAsText_MyBatis/mapper/mapper.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
@@ -863,6 +736,16 @@
           <folding>
             <element signature="e#69#123#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="63">
+            <caret line="3" column="27" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
